@@ -9,7 +9,7 @@
 获取最新版本的 Elasticsearch。
 
 要想安装 Elasticsearch，先下载并解压适合你操作系统的 Elasticsearch 版本。如果你想了解更多的信息，
-可以查看 Elasticsearch 参考手册里边的安装部分，这边给出的链接指向安装说明 {ref}/_installation.html[Installation]。
+可以查看 Elasticsearch 参考手册里边的安装部分，这边给出的链接指向安装说明 https://www.elastic.co/guide/en/elasticsearch/reference/current/_installation.html[Installation]。
 
 [TIP]
 ====
